@@ -56,17 +56,8 @@ Capture : [`captures/ping-pc1-pc2.pcapng`](captures/)
 
 ## 💡 Ce que j'ai appris
 
-- Pourquoi le premier ping est parfois plus lent (résolution ARP)
-- Un switch ne fait pas communiquer deux sous-réseaux différents : il faut un routeur → **Lab 02**
-- …
+-Pourquoi le premier ping est parfois plus lent (résolution ARP)
+-Un switch ne fait pas communiquer deux sous-réseaux différents : il faut un routeur
+-Le but était de reprendre les bases du réseau et de comprendre petit à petit  
 
-## 🚀 Pour reproduire
 
-1. Cloner le dépôt
-2. Dans GNS3 : `File > Import portable project` → `topologie/lab01.gns3project`
-3. Démarrer tous les équipements
-
-## 🛠️ Environnement
-
-- GNS3 2.2.x sur Ubuntu
-- Équipements : VPCS, Ethernet switch intégré (aucune image propriétaire requise)
