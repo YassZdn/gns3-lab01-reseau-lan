@@ -1,0 +1,10 @@
+# Images d'équipements (propriétaires / trop lourdes)
+*.qcow2
+*.img
+*.bin
+*.iso
+*.vmdk
+# Fichiers temporaires GNS3
+project-files/
+*.gns3.backup
+*.log
